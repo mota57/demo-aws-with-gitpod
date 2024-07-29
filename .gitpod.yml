@@ -12,9 +12,9 @@
 # customise it to your individual needs - from themes to extensions, you
 # have full control.
 
-tasks:
-  - name: Initialize & Configure AWS
-    command: bash $GITPOD_REPO_ROOT/configure_aws_with_gitpod.sh
+#tasks:
+#  - name: Initialize & Configure AWS
+#    command: bash $GITPOD_REPO_ROOT/configure_aws_with_gitpod.sh
 
 # The 'github' section defines configuration of continuous prebuilds
 # for GitHub repositories when the GitHub application
